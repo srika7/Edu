@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "713306749433",
+    "project_id": "login-edu-stream",
+    "storage_bucket": "login-edu-stream.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713306749433:android:ed22cd4d566483389de528",
+        "android_client_info": {
+          "package_name": "com.example.Edu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrOLQFl_T3ruyuNn_tL45YB5kP-oNxfiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
