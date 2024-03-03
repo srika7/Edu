@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Edu</string>
+    <string name="Attendance">Attendance</string>
+
+    <string name="A">Achieve Your Goals</string>
+    <string name="Feedback">Feedback</string>
+    <string name="showcase"> Showcase</string>
+    <string name="courses">Courses</string>
+    <string name="maintain_your_focus">Maintain your focus</string>
+    <string name="learn_from_anywhere">Learn from anywhere</string>
+    <string name="signup">SignUp</string>
+    <string name="login">Login</string>
+    <string name="are_you_new_user_register">Are you new user? Register</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="welcome_back">Welcome Back</string>
+
+    <string name="delete_confirmation">Confirmation</string>
+    <string name="sureToDelete">Are you sure you want to delete the task</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="confirmation">Completed the task!..</string>
+    <string name="sureToMarkAsComplete">Are you sure you want to mark this task as completed.</string>
+    <string name="congrats_you_have_completed_the_task_successfully">Congrats!... You have completed the task successfully..</string>
+    <string name="lets_start">Lets start</string>
+    <string name="education">Education</string>
+    <string name="Link">
+        Click<a href = "https://meet.google.com/zzp-shdb-fqc"> here </a> to join meet.
+    </string>
+    <string name="Acadamic">Acadamic</string>
+    <string name="portfolio">PORTFOLIO</string>
+    <string name="profile">Profile</string>
+    <string name="placements">Placements</string>
+    <string name="pass">Password</string>
+    <string name="todo">TODO</string>
+    <string name="name">Name</string>
+    <string name="are_you_a_new_user_register">Are you a new user? Register</string>
+
+</resources>
